@@ -3,15 +3,15 @@
 
 *courses completed*  
 
-|course                     |  
+|number | course                     |  
 
------------------------------   
+|-------|--------------------  |   
 
-|intro to python            |  
+|1|intro to python            |  
 
-|java                       |  
+|2|java                       |  
 
-|digital system and desighn |  
+|3|digital system and desighn |  
 
-|introduction to psychology |  
+|4|introduction to psychology |  
 
