@@ -3,7 +3,7 @@
 
 *courses completed*  
 
-|number |==course==                 |
+|number |course                     |
 |:------|:------------------------  | 
 |1      |intro to python            |
 |2      |java                       |
