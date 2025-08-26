@@ -4,14 +4,8 @@
 *courses completed*  
 
 |number | course                    |
-
 |:------|:------------------------  | 
-
 |1      |intro to python            |
-
 |2      |java                       |
-
 |3      |digital system and desighn |
-
 |4      |introduction to psychology |
-
