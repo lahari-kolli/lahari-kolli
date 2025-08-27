@@ -10,3 +10,6 @@
 |3      |digital system and desighn |
 |4      |introduction to psychology |
 |🔜     |operating systems          |
+*projects to complete this semester*  
+
+
