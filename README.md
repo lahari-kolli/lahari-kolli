@@ -12,7 +12,9 @@
 |🔜     |operating systems          |
 
 
-*projects to complete this semester*  
+*projects to complete or completed this semester*  
+Object oriented programming[treasure find game]
+GUI based games
 
 
 
