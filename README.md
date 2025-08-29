@@ -13,7 +13,7 @@
 
 
 *projects to complete or completed this semester*  
-Object oriented programming[treasure find game]
+Object oriented programming[treasure find game]  
 GUI based games
 
 
