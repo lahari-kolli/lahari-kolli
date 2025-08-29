@@ -14,7 +14,7 @@
 
 ***projects to complete or completed this semester***   
 Object oriented programming[treasure find game]  
-GUI based games
+GUI based games  
 password cracker
 
 
