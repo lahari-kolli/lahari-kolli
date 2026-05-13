@@ -37,12 +37,6 @@ Small interactive game built using Java GUI libraries.
 
 ---
 
-### 🌐 Personal Projects *(coming this summer)*
-
-| Project | Stack | Status |
-|---|---|---|
-| Fintech dashboard app | React · Spring Boot · PostgreSQL | 🔨 Building |
-| Finance tracker (Python) | Python · Flask · API | 🔨 Building |
 
 ---
 
